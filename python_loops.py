@@ -49,3 +49,7 @@ print(total)
 total = random.randint(1,10)
 total = str(total)
 print('your random number is '+ total)
+
+start = 1
+for start in range (5)
+    print ("I am going crazy" + str(start))
